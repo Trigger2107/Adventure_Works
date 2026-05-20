@@ -1,0 +1,54 @@
+
+
+[
+    {
+        "p_rel_url": "Trigger2107/Adventure_Works/refs/heads/main/invoices/invoice_Aaron Bergman_36258.pdf",
+        "p_sink_folder": "InputDocuments/github",
+        "p_sink_file": "invoice1.pdf"
+    },
+    {
+        "p_rel_url": "username/Adventure_Works/refs/heads/main/invoices/invoice_Aaron Bergman_36259.pdf",
+        "p_sink_folder": "InputDocuments/github",
+        "p_sink_file": "invoice2.pdf"
+    },
+    {
+        "p_rel_url": "Trigger2107/Adventure_Works/refs/heads/main/invoices/invoice_Aaron Bergman_36260.pdf",
+        "p_sink_folder": "InputDocuments/github",
+        "p_sink_file": "invoice3.pdf"
+    },
+    {
+        "p_rel_url": "Trigger2107/Adventure_Works/refs/heads/main/invoices/invoice_Aaron Bergman_39519.pdf",
+        "p_sink_folder": "InputDocuments/github",
+        "p_sink_file": "invoice4.pdf"
+    },
+    {
+        "p_rel_url": "Trigger2107/Adventure_Works/refs/heads/main/invoices/invoice_Aaron Bergman_36651.pdf",
+        "p_sink_folder": "InputDocuments/github",
+        "p_sink_file": "invoice5.pdf"
+    },
+    {
+        "p_rel_url": "Trigger2107/Adventure_Works/refs/heads/main/invoices/invoice_Aaron Bergman_36652.pdf",
+        "p_sink_folder": "InputDocuments/github",
+        "p_sink_file": "invoice6.pdf"
+    },
+    {
+        "p_rel_url": "Trigger2107/Adventure_Works/refs/heads/main/invoices/invoice_Aaron Bergman_37425.pdf",
+        "p_sink_folder": "InputDocuments/github",
+        "p_sink_file": "invoice7.pdf"
+    },
+    {
+        "p_rel_url": "Trigger2107/Adventure_Works/refs/heads/main/invoices/invoice_Aaron Bergman_38460.pdf",
+        "p_sink_folder": "InputDocuments/github",
+        "p_sink_file": "invoice8.pdf"
+    },
+    {
+        "p_rel_url": "Trigger2107/Adventure_Works/refs/heads/main/invoices/invoice_Aaron Bergman_4820.pdf",
+        "p_sink_folder": "InputDocuments/github",
+        "p_sink_file": "invoice9.pdf"
+    },
+    {
+        "p_rel_url": "Trigger2107/Adventure_Works/refs/heads/main/invoices/invoice_Aaron Bergman_6817.pdf",
+        "p_sink_folder": "InputDocuments/github",
+        "p_sink_file": "invoice10.pdf"
+    },
+]
